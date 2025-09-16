@@ -1,4 +1,4 @@
-# Software-Engineering-Project
+# App name: Song Sphere
 Team repository for CMP-280-86551 Software Engineering 
 
 Our app is going to be a revamped version of the popular AirBuds app.  The preexisting AirBuds app has a lot of features, such as adding friends, sending reactions to songs, viewing listening history, leaderboards for artists, and so on.  
